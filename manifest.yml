@@ -6,5 +6,5 @@ applications:
   name: ttis
   host: ttis
   disk_quota: 1024M
-  services:
-  - AlchemyAPI-43
+  services: AlchemyAPI-vz
+
